@@ -1,1 +1,1 @@
-# visual-git-tools
+# Visual tools example
